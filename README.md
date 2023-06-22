@@ -9,3 +9,6 @@ This repository includes all the work I completed for the "Mathematics of Machin
 
 
 *Bank note authentication: This repository contains different machine learning models to perform the task of determining whether a dollar bill is fake or genuine.
+
+
+[a link](https://github.com/jdcarrascali/Matematicas-del-aprendizaje-de-maquinas/blob/main/Bank_note_authentication.ipynb)
