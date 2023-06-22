@@ -6,4 +6,6 @@ This repository includes all the work I completed for the "Mathematics of Machin
 
 
 *Ocuppancy detection: Contains different machine learning models such as random forest and logistic regression to perform the task of predicting whether a person is occupying a room or not.
-*Bank note authentication: 
+
+
+*Bank note authentication: This repository contains different machine learning models to perform the task of determining whether a dollar bill is fake or genuine.
