@@ -1,4 +1,4 @@
-# Matematicas-del-aprendizaje-de-maquinas
+# Matemáticas del aprendizaje de máquinas
 Mathematics of machine learning course, UNAL Spring 2023
 
 
