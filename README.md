@@ -19,7 +19,7 @@ This repository includes all the work I completed for the "Mathematics of Machin
 
 * [*Eigenfaces*](https://github.com/jdcarrascali/Matematicas-del-aprendizaje-de-maquinas/blob/main/Eigen_faces.ipynb): Implementation of the principal component analysis algorithm in a data set of faces, to exemplify what the algorithm does, there is a print of some principal components (eigen-faces).
 
-Aditionally to the presented implementations, i include a group work based on the study of the "Mathematics of deep learning" by Rene Vidal, Joan Bruna, Raja Giryes and Stefano Soatto.
+Aditionally to the presented implementations, i include a group work based on the study of the paper "Mathematics of deep learning" by Rene Vidal, Joan Bruna, Raja Giryes and Stefano Soatto.
 
 * [*Presentation*](https://github.com/jdcarrascali/Matematicas-del-aprendizaje-de-maquinas/blob/main/Theoretical_article_presentation/Article%20_Presentation_slides.pdf)  Slides of the presentation.
 * [*Review*](https://github.com/jdcarrascali/Matematicas-del-aprendizaje-de-maquinas/blob/main/Theoretical_article_presentation/%E2%80%9CMathematics%20of%20Deep%20Learning%E2%80%9D%20Review%3A%20Insights%20%26%20Analysis.pdf) article-style documment to compile the review group study.
